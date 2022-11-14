@@ -25,4 +25,6 @@ const timeHelper = (startDate, endDate) => {
 	}
 }
 
-console.log(timeHelper('2021-01-01', '2021-12-28'))
+// console.log(timeHelper('2021-01-01', '2021-12-28'))
+
+export default timeHelper;
