@@ -1,6 +1,6 @@
 {
   "name": "date-and-time-helpers-test-name",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Some simple time and date helpers",
   "main": "./lib/timeHelper.js",
   "exports": {
