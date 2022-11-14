@@ -1,10 +1,11 @@
 import {useState} from 'react'
 import './App.css'
+import timeHelper from 'date-and-time-helpers-test-name'
 
 function App() {
 	const [startDate, setStartDate] = useState('2021-08-01');
 	const [endDate, setEndDate] = useState('2021-08-31');
-
+	console.log(timeHelper('2021-05-01', '2021-05-28'))
 	const handleTest = ({startDate, endDate}) => {
 		setStartDate(startDate)
 		setEndDate(endDate)
