@@ -1,5 +1,5 @@
 {
-  "name": "date-and-time-helpers",
+  "name": "date-and-time-helpers-test-name",
   "version": "1.0.0",
   "description": "Some simple time and date helpers",
   "main": "./lib/timeHelper.js",
